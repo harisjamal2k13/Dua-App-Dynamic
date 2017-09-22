@@ -1,0 +1,22 @@
+body{
+    background: black !important;
+ }
+ h2{
+     color: white !important;
+ }
+  label{
+     color: white !important;
+ }
+h1{
+    font-size: 24px;
+}
+.alert-primary{
+    border-radius: 10px;
+}
+.float-right{
+    font-size: 4em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+a{
+    color: white;
+}

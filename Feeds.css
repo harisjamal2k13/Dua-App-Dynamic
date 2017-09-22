@@ -1,0 +1,18 @@
+/*.container{
+}*/
+.container{
+    /*background: greenyellow;*/
+    margin: 5% auto;
+    width: 400px;
+}
+body {
+    background: black;
+    /* filter: blur(5px); */
+    /*background-image: url("img/dua-back1.jpg");*/
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: blur(10);
+}
+a{
+    color: white !important;
+}

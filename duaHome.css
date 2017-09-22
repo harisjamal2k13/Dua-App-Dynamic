@@ -1,0 +1,131 @@
+body {
+    /* filter: blur(5px); */
+    /*background-image: url("img/dua-back1.jpg");*/
+    background: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: blur(10)
+}
+.main-container{
+    margin-top: 10px;
+    box-shadow: 0px 4px 20px;
+    width: 100%;
+    /* height: 530px; */
+    margin: auto;
+    /* border: 2px solid red; */
+    padding: 40px;
+    /* position: relative; */
+    background-color: teal;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box; 
+    
+    
+}
+.user-div{
+    box-shadow: 2px 2px 4px;
+    border-radius: 10px;
+    border: 2px solid black;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box; 
+    /* display: inline-block; */
+    padding: 10px; 
+    vertical-align: top;
+}
+.user-img{
+    height: 150px;
+    text-align: center;
+    
+}
+.lo-btn{
+    width: 25%;
+    display: inline-block;
+}  
+.dua-div{
+    box-shadow: 2px 2px 2px;
+    border-radius: 10px;
+    /* display: inline-block; */
+    border: 2px solid black;
+    /* width: 70%; */
+    /* height: 100%; */
+    height: 500px;
+    box-sizing: border-box;
+    padding: 3px;
+    /* margin-left: 10px; */
+}
+.submit-btn{
+    border-radius: 10px;
+    width: 70%;
+    box-sizing: border-box;
+    text-align: center;
+    width: 70%;
+    float: right;
+    display: inline-block;
+    /* margin-right: 20px; */
+}
+
+textarea{
+    display:block;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgba(255, 207, 137, 0.60);
+    font-size: 2em;
+    border: none;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    overflow-y: scroll;
+    resize: none;
+}
+
+.border{
+    border: 2px solid black;
+}
+.btn{
+    padding: 5px;
+
+}
+
+button{
+    width: 100px;
+    float: right;
+    cursor: pointer;
+    margin-top: 10px;
+    color: black !important;
+    margin-right: 20px;
+}
+.navbar-brand{
+    font-size: 250%;
+    color: goldenrod !important;
+}
+.logout{
+    color: goldenrod !important;
+    font-size: 150%;
+}
+#userfirstName{
+ color: black;
+}
+.userfirstName{
+ color: black;
+}
+#useremail{
+ color: black;
+    
+}
+.useremail{
+ color: black;  
+}
+#cellNo{
+ color: black;  
+}
+.cellNo{
+ color: black;  
+}
+.feeds{
+    font-size: 250%;
+    color: cornflowerblue !important;
+}
+.bg{
+    background-color: brown;
+}
